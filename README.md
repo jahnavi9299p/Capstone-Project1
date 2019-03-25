@@ -42,4 +42,4 @@ The project is of two parts. Part one is about loading the data, data visualisat
 This was a beginner's attempt at Machine Learning hence the excitement to explore various accuracy measures in different notebooks.
 After observing from implementations in sklearn it was understood that for any given combination of features, KNN classifies better than
 Logistic Regression.
-However, under the spell of this project being the first I have done, I got a little carried away and trained both the models on all possible combinations of features and made observations in the 
+However, under the spell of this project being the first I have done, I got a little carried away and trained both the models on all possible combinations of features and made observations in the Banknote Authentication3.xlsx .
