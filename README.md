@@ -29,5 +29,10 @@ Download the latest version of Anaconda for Python 3 (ignore Python 2.7) from th
 https://repo.anaconda.com/archive/ .
 Install Anaconda by following the instructions on the download page and/or in the executable.
 If you are a more advanced user with Python already installed and prefer to manage your packages manually, you can just use pip: *pip3 install jupyter*
-
+To download the ipynb file from GitHub-
+*First click on Raw.
+*Then, press ctrl+s to save it as .ipynb .
+*Open jupyter notebook.
+*Go to location where you saved .ipynb file.
+*Open file, you will see the code.
 
